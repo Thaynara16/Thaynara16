@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 🖤
 
-<!--
-**Thaynara16/Thaynara16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Thaynara Artal
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Já fiz um curso de robótica de Lego e programei os protótipos
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  thaynaraartal69@gmail.com
+
+
+![](https://media1.tenor.com/m/7PQWLrFi5nsAAAAC/hanako.gif)
